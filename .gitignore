@@ -1,0 +1,11 @@
+
+*.xml
+*.json
+*.pdb
+Hillel_Lesson7_HW/obj/Debug/net7.0/apphost
+*.cache
+*.txt
+*.editorconfig
+*.props
+*.targets
+*.info
